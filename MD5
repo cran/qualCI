@@ -1,0 +1,16 @@
+6afb96429f2f15f73e94bc8662abe706 *DESCRIPTION
+3bf67dd7967eec42d5646ad0eadb3ae9 *NAMESPACE
+d0f8f74c274f2e39036643e7a80095bf *R/possible.treatments.R
+39c068fb740412468105576c2f7d6761 *R/print.matchedSets.R
+9c9a483c200dad01ce0476e21ae6b3a5 *R/quade.R
+338a35d5fd801ef762e579e75135bc9d *R/quade.prep.R
+47d0ddbf3bb110e2ffdc7b2a1e770f48 *R/qualci.R
+222651317b39c5062d2b53816a4e0f7e *R/within.statistic.R
+34f205f4a2c67faf2783ef53888c9a9c *README
+fa11f5d46858cf6615966936d398cead *data/pluralityPairs.RData
+df2c74d2223b7a3011022b917cc10da9 *data/pluralitySets.RData
+f8c3a0bbd5f16886d2fa3715d6f56e86 *man/pluralityPairs.Rd
+a40af4d8a1793de703eac4fdbf5d50bf *man/pluralitySets.Rd
+c65c1b0dcb646712ba6a30c1a5e148e9 *man/quade.Rd
+0bbea95e728aed8812fed6456b3282c0 *man/quade.prep.Rd
+597169d10eb226848d691d0fbcf4f64d *man/qualci.Rd
